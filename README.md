@@ -1,7 +1,7 @@
 ## Demo Control shape manager for Maya
 *This repo is used for demonstration purposes, to be followed along with in this blog post*
 
-http://bindpose.com/
+http://bindpose.com/creating-maya-control-shape-manager
 
 Scroll down for an example GIF.
 
