@@ -12,7 +12,7 @@ Scroll down for an example GIF.
 4. *(Optional)* To get the colours working you need to get the images from [here](https://www.dropbox.com/sh/osdatp13h01coz7/AAB9pCYP9uBZRaVRjYKqIk--a?dl=1). Then in `managerUI.py` change `ICON_PATH` to the path where you've saved them.
 
 ### Example
-![](http://bindpose.com/wp-content/uploads/2017/05/2017-05-01_08-54-21.gif)
+![](http://bindpose.com/wp-content/uploads/2017/05/2017-05-01_08-54-21.gif =250x)
 
 
 
